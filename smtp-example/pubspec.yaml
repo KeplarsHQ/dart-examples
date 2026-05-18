@@ -1,0 +1,10 @@
+name: keplars_dart_smtp_example
+description: Keplars SMTP example using the mailer package
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  mailer: ^6.1.0
+  dotenv: ^4.2.0

@@ -29,6 +29,18 @@ Full Shelf HTTP server demo using the official Dart SDK. Covers transactional em
 
 [View SDK Example →](./sdk-example/)
 
+### API Example (`api-example/`)
+
+Minimal script sending a single email via raw HTTP using the `http` package — no SDK required.
+
+[View API Example →](./api-example/)
+
+### SMTP Example (`smtp-example/`)
+
+Minimal script sending a single email via SMTP using the `mailer` package — no SDK required.
+
+[View SMTP Example →](./smtp-example/)
+
 ## Quick Start
 
 ```bash
